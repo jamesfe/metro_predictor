@@ -1,0 +1,10 @@
+*.secret
+predictions/*
+*.pickle
+*.pyc
+.idea/
+src/datascience/data_files/forecasts/*
+src/datascience/data_files/*
+*.swp
+*.swo
+# predictions/
